@@ -3,7 +3,12 @@ title: Welcome to my blog!
 ---
 
 # Daily Learning
+Intro to git lesson is fricken fun I love it.
 
+my new website
+```new site
+https://flyabov.github.io/it
+```
 ## Morning Planning
 
 <img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
